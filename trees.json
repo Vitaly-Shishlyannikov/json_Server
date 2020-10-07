@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "title": "PAUWLONIA1",
+  "landing_date": "03.05.2020",
+  "carbon_comp": 2344,
+  "price": 12.03,
+  "coordinates": {
+      "lattitude": 54.232323,
+      "longitude": 34.434344
+  },
+  "image_url": "https://drive.google.com/uc?export=view&id=1s8TG2u6JBzNGyrz5BYl_Q77qKBzyloKE"
+},
+{
+  "id": 2,
+  "title": "PAUWLONIA2",
+  "landing_date": "03.04.2020",
+  "carbon_comp": 2224,
+  "price": 11.03,
+  "coordinates": {
+      "lattitude": 50.232324,
+      "longitude": 36.434348
+  },
+  "image_url": "https://drive.google.com/uc?export=view&id=1QmPpmcpHQldIvVh7OrwkWxQ9yvA9rvPN"
+},
+{
+  "id": 3,
+  "title": "PAUWLONIA3",
+  "landing_date": "01.05.2020",
+  "carbon_comp": 2349,
+  "price": 13.13,
+  "coordinates": {
+      "lattitude": 54.232325,
+      "longitude": 34.434349
+  },
+  "image_url": "https://drive.google.com/uc?export=view&id=1QmPpmcpHQldIvVh7OrwkWxQ9yvA9rvPN"
+}]
